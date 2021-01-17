@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608334736 source:c:\users\cyril\projets\jeu plus ou moins tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1608055944 source:c:\users\cyril\projets\jeu plus ou moins tp\resources.rc
+
